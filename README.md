@@ -33,8 +33,8 @@ To protect your profit margins, you need an automated bridge between **employee 
 >
 > Test the logic instantly in your browser for free, or download the full automated Excel system for permanent, offline business use.
 >
-> - 🌐 **Free Online Sandbox (No Signup Required):** [Launch the Free Online Project Cost & Resource Utilization Calculator (Browser Web App)](BROWSER_DEMO_URL_TO_BE_ADDED)
-> - 📥 **Full Offline Automated System (One-Time Purchase):** [Download the Automated Project Timesheet & Labor Cost Allocation Excel Template](https://theseusworkshop.com/l/pobilo)
+> - 🌐 **Free Online Sandbox (No Signup Required):** [Launch the Free Online Project Cost & Resource Utilization Calculator (Browser Web App)](https://hyvoid.github.io/project-timesheet-cost-calculator-excel/)
+> - 📥 **Full Offline Automated System (One-Time Purchase):** [Download the Automated Project Timesheet & Labor Cost Allocation Excel Template](https://theseusworkshop.com/l/pobilo?utm_source=github&utm_medium=GitHub%20README)
 >
 > *Note: The browser version lets you preview the analytical workflow immediately with zero installation. The full Microsoft Excel workbook includes pre-built dynamic-array formulas, 10 interconnected worksheets, Power Automate data sync support, full local data privacy, and a **30-day no-questions-asked money-back guarantee**.*
 >
@@ -86,7 +86,7 @@ Zero formula dragging required. Click directly into your automated output tabs:
 
 While the underlying management accounting and resource reconciliation logic is complex, **you don't need to build or understand the math to get the results.** 
 
-Try the **[Free Web-Based Project Cost Calculator](BROWSER_DEMO_URL_TO_BE_ADDED)** right now to test a single batch of data. Once you are ready to make this a permanent, repeatable part of your weekly or monthly operations, upgrade to the **[Full Automated Excel Workbook](https://theseusworkshop.com/l/pobilo)**:
+Try the **[Free Web-Based Project Cost Calculator](https://hyvoid.github.io/project-timesheet-cost-calculator-excel/)** right now to test a single batch of data. Once you are ready to make this a permanent, repeatable part of your weekly or monthly operations, upgrade to the **[Full Automated Excel Workbook](https://theseusworkshop.com/l/pobilo?utm_source=github&utm_medium=GitHub%20README)**:
 
 - **100% Pre-Built Auto-Updating Formulas:** Powered by modern Excel dynamic arrays. You **never even need to double-click the cell corner to drag or copy formulas**. Just download the file to your local computer, paste your own data, and view your complete financial analysis with one click.
 - **Become a Business Analysis Pro in 1 Minute:** Even with zero finance or Excel background, you get instant, executive-ready decision feedback. Find your exact profit leaks in 60 seconds so you can stop wrestling with spreadsheets during peak busy seasons and focus on high-value business decisions.
