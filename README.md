@@ -1,6 +1,8 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Project Timesheet Template & Labor Cost Allocation Excel Calculator: Track Billable Hours, Resource Utilization & Project Profitability
+<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/c0974686-d76f-4d6c-a31a-543931f7dc2b" />
+
 
 **Turn raw employee timesheets into accurate project labor costs, real-time project profitability metrics, and resource utilization intelligence in 1 minute — using a ready-to-use Excel project cost tracker and free online calculator without complex PSA software.**
 
@@ -18,8 +20,10 @@ Most teams collect hours but fail to track actual money. Designed for small-to-m
 - **Project Budget vs. Actual Burn Rate:** Which projects are quietly draining your labor budget and eroding profit margins?
 - **Seniority-Adjusted Labor Costing:** How much does a project *actually* cost when comparing a $300/hr Junior Consultant against an $800/hr Director?
 - **Timesheet Audit & Data Reconciliation:** Are reported hours approved, valid, and mapped to the right cost center before hitting financial reports?
-- **Hidden Meeting Cost Leakage:** How much unbilled project budget is being burned inside recurring Outlook and Microsoft Teams meetings?
-- **Employee Capacity & Utilization Rate:** Which team members are overworked, underutilized, or spending billable capacity on internal non-revenue tasks?
+- **Hidden Meeting Cost Leakage:** How much unbilled project budget is being burned inside recurring Outlook and Microsoft Teams meetings?<img width="1920" height="822" alt="image" src="https://github.com/user-attachments/assets/8f76c281-9a80-48e0-a018-858ded606ba3" />
+
+- **Employee Capacity & Utilization Rate:** Which team members are overworked, underutilized, or spending billable capacity on internal non-revenue tasks?<img width="1920" height="825" alt="image" src="https://github.com/user-attachments/assets/b080e8cb-cd95-4469-99c2-d06884c0cb0d" />
+
 
 The core financial rule is simple: **a raw timesheet is not a project cost report.**
 
@@ -34,8 +38,8 @@ To protect your profit margins, you need an automated bridge between **employee 
 >
 > *Note: The browser version lets you preview the analytical workflow immediately with zero installation. The full Microsoft Excel workbook includes pre-built dynamic-array formulas, 10 interconnected worksheets, Power Automate data sync support, full local data privacy, and a **30-day no-questions-asked money-back guarantee**.*
 >
-> *(Publication note: Replace the two link placeholders with your live deployment and Gumroad/store URLs before publishing.)*
 
+ 
 ---
 
 ## What It Helps You Track: Pain-Point to Solution Mapping
