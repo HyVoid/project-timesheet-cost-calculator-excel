@@ -1,36 +1,50 @@
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Inter:wght@300;400;500;600;700&display=swap');
+@import "@fontsource/eb-garamond/500.css";
+@import "@fontsource/eb-garamond/600.css";
+@import "@fontsource/eb-garamond/700.css";
 @import "tailwindcss";
 
 @theme {
   --font-heading: "EB Garamond", "Garamond", Georgia, serif;
-  --font-body: "Inter", system-ui, -apple-system, sans-serif;
+  --font-body: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 
-  --color-primary: #09090B;
-  --color-accent: #2563EB;
-  --color-bg: #FAFAFA;
-  --color-muted: #71717A;
-  --color-body-text: #27272A;
-  --color-positive: #10B981;
-  --color-negative: #EF4444;
+  --color-primary: #051C2C;
+  --color-brand: #051C2C;
+  --color-accent: #2251FF;
+  --color-bg: #F5F5F2;
+  --color-muted: #888888;
+  --color-body-text: #051C2C;
+  --color-positive: #00C853;
+  --color-negative: #D32F2F;
   --color-surface: #FFFFFF;
-  --color-input-bg: #FFFDF0;
-  --color-border: #E4E4E7;
+  --color-input-bg: #FFFDE7;
+  --color-border: #E8E8E6;
 }
 
 :root {
-  --color-primary: #09090B;
-  --color-accent: #2563EB;
-  --color-bg: #FAFAFA;
-  --color-muted: #71717A;
-  --color-body-text: #27272A;
-  --color-positive: #10B981;
-  --color-negative: #EF4444;
-  --color-surface: #FFFFFF;
-  --color-input-bg: #FFFDF0;
-  --color-border: #E4E4E7;
+  --bg: #F5F5F2;
+  --surface: #FFFFFF;
+  --brand: #051C2C;
+  --accent: #2251FF;
+  --muted: #888888;
+  --ok: #00C853;
+  --danger: #D32F2F;
+  --input-bg: #FFFDE7;
+  --border: #E8E8E6;
+
+  --color-primary: var(--brand);
+  --color-brand: var(--brand);
+  --color-accent: var(--accent);
+  --color-bg: var(--bg);
+  --color-muted: var(--muted);
+  --color-body-text: var(--brand);
+  --color-positive: var(--ok);
+  --color-negative: var(--danger);
+  --color-surface: var(--surface);
+  --color-input-bg: var(--input-bg);
+  --color-border: var(--border);
 
   --font-heading: "EB Garamond", "Garamond", Georgia, serif;
-  --font-body: "Inter", system-ui, -apple-system, sans-serif;
+  --font-body: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }
 
 body {
@@ -61,12 +75,11 @@ body {
 
 /* Custom interactive classes */
 .card-hover {
-  transition: transform 200ms cubic-bezier(0.16, 1, 0.3, 1), box-shadow 200ms ease, border-color 200ms ease;
+  transition: transform 200ms cubic-bezier(0.16, 1, 0.3, 1), box-shadow 200ms ease;
 }
 .card-hover:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
-  border-color: var(--color-muted);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(5, 28, 44, 0.06);
 }
 
 .cell-interactive {
