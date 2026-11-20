@@ -55,6 +55,14 @@ Instead of staring at raw rows of logged hours, this **project cost tracking das
 | **"Projects go over budget without warning."** | **Cost Center Budget vs. Actual Burn** | Tracks real-time labor expenditure against approved cost center budgets to prevent late-stage overruns. |
 | **"Messy timesheet data ruins my reports."** | **6-Point Timesheet Audit & Validation** | Flags unapproved hours, duplicate logs, missing cost centers, unmapped staff, and out-of-period dates automatically. |
 
+## Spreadsheet Preview
+
+Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+
+**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1q7OZsFhDDaMqDRs9wxFc3ZsAuxHPN_Be/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
+
 ---
 
 ## Step-by-Step Tutorial: How to Run Your Project Cost & Utilization Analysis in 1 Minute
